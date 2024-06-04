@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewTalents", "NewTalents.csproj", "{5E75F5DE-2273-433A-877D-AE4DAA41D9F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNewTalents", "..\TestNewTalents\TestNewTalents.csproj", "{EFE6FC76-C7E5-4036-A37E-A42F19C63576}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E75F5DE-2273-433A-877D-AE4DAA41D9F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E75F5DE-2273-433A-877D-AE4DAA41D9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E75F5DE-2273-433A-877D-AE4DAA41D9F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E75F5DE-2273-433A-877D-AE4DAA41D9F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE6FC76-C7E5-4036-A37E-A42F19C63576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE6FC76-C7E5-4036-A37E-A42F19C63576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE6FC76-C7E5-4036-A37E-A42F19C63576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE6FC76-C7E5-4036-A37E-A42F19C63576}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D7EA55A-2552-43A5-95F0-7BAF4F35D585}
+	EndGlobalSection
+EndGlobal
